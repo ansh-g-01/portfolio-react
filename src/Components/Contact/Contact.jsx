@@ -16,13 +16,13 @@ const Contact = () => {
                 <h1>Let's talk</h1>
                 <p>Feel free to contact me anytime. I will try my best to assist you.</p>
                 <div className="contact-details">
-                    <div className="contact-detail"><p>ansh21000@gmail.com</p>
+                    <div className="contact-detail"><p><b>Email:</b> ansh21000@gmail.com</p>
                         <img src="" alt="" />
                     </div>
-                    <div className="contact-detail"><p>7020026145</p>
+                    <div className="contact-detail"><p><b>Phone :</b>7020026145</p>
                     <img src="" alt="" />
                     </div>
-                    <div className="contact-detail"><p>Vellore, TamilNadu</p>
+                    <div className="contact-detail"><p><b>Address:</b> Vellore, TamilNadu</p>
                     <img src="" alt="" />
 
                     </div>

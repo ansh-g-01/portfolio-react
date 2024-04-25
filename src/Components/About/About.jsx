@@ -19,7 +19,7 @@ const About = () => {
             <div className="about-right">
                 <div className="about-para">
                     <p>I have dedicated 2 years to learn Development and have successfully created 5 projects</p>
-                    <p> I am hosted several shows as an anchor</p>
+                    <p> I have several shows as an anchor</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>Development</p>< hr style={{width:"40%"}}/></div>

@@ -18,7 +18,7 @@ const About = () => {
 
             <div className="about-right">
                 <div className="about-para">
-                    <p>This is some text which can be decided later , lets wait and watch and learn</p>
+                    <p>I have dedicated 2 years to learn Development and have succes</p>
                     <p> Yeah , you heard it right , we can discuss all the things later</p>
                 </div>
                 <div className="about-skills">

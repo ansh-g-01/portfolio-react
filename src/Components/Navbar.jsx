@@ -22,11 +22,11 @@ const Navbar = () => {
             <p onClick={() => setMenu("about")}>About Me</p>
           </AnchorLink>
         </li>
-        <li>
+        {/* <li>
           <AnchorLink className='anchor-link'  offset={50} href='#about'>
             <p onClick={() => setMenu("portfolio")}>Portfolio</p>
           </AnchorLink>
-        </li>
+        </li> */}
         <li>
           <AnchorLink className='anchor-link'  offset={50} href='#contact'>
             <p onClick={() => setMenu("contact")}>Contact</p>

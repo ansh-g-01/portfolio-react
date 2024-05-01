@@ -22,9 +22,13 @@ const Contact = () => {
                     <div className="contact-detail"><p><b>Phone :</b>7020026145</p>
                     <img src="" alt="" />
                     </div>
-                    <div className="contact-detail"><p><b>Address:</b> Vellore, TamilNadu</p>
+                    <div className="contact-detail"><p><b>Address:</b> 202/A Kibe Sankul, Maruti Lane, Ratnagiri, Maharashtra.</p>
                     <img src="" alt="" />
+                    
 
+                    </div>
+                    <div className="contact-detail"><p><a href="https://www.linkedin.com/in/ansh-gandhi-2906a2248/">Linkedin</a></p>
+                    
                     </div>
                 </div>
               </div>

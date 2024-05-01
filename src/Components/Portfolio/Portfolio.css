@@ -12,28 +12,41 @@
     margin: 80px 170px;
 }
 
-
-.names h1
-{
+.names h1 {
     text-align: center;
     width: 70%;
     font-size: 45px;
     font-weight: 600;
     text-align: left;
     margin-left: -15px;
+    transition: color 0.3s ease; /* Add transition effect */
 }
 
-.names h1 span{
+.names h1 span {
     background: linear-gradient(270deg, #DF8908 10%, #B415FF  100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-   
 }
 
 fieldset {
     border: 1px solid #ccc; /* Border style */
     padding: 20px; /* Padding inside the fieldset */
     border-radius: 8px; /* Rounded corners */
+}
+
+/* Remove underline from anchor tag */
+.names a {
+    text-decoration: none;
+    color:inherit; /* Inherit color from parent */
+    transition:  0.5s ; /* Add transition effect */
+}
+
+/* Hover effect */
+.names :hover {    
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transform: scale(1.05);
+    transform: 0.5s;
+    text-decoration: underline;
 }
 

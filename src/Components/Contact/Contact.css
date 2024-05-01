@@ -119,8 +119,12 @@
     background: #32323c;
     font-family: Outfit;
     font-size: 20px;
-}
+    
+}  
 
+textarea:focus {
+    background-color: white;
+  }
 .contact-submit
 {
     border:none;

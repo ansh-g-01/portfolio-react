@@ -43,10 +43,18 @@ fieldset {
 }
 
 /* Hover effect */
-.names :hover {    
+.names a :hover {    
     cursor: pointer; /* Change cursor to pointer on hover */
     transform: scale(1.05);
     transform: 0.5s;
     text-decoration: underline;
+}
+
+
+p{
+    word-spacing: 4px;
+    padding: 2px 2px;
+    margin: 2px 2px;
+    color: #ccc;
 }
 

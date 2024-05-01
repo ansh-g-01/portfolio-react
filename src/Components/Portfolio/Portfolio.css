@@ -1,0 +1,39 @@
+.Projects h1 {
+    padding: 0px 30px;
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.Projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 80px;
+    margin: 80px 170px;
+}
+
+
+.names h1
+{
+    text-align: center;
+    width: 70%;
+    font-size: 45px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: -15px;
+}
+
+.names h1 span{
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF  100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
+
+fieldset {
+    border: 1px solid #ccc; /* Border style */
+    padding: 20px; /* Padding inside the fieldset */
+    border-radius: 8px; /* Rounded corners */
+}
+

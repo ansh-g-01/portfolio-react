@@ -18,13 +18,15 @@ const About = () => {
 
             <div className="about-right">
                 <div className="about-para">
-                    <p>I have dedicated 2 years to learn Development and have successfully created 5 projects</p>
-                    <p> I have several shows as an anchor</p>
+                  <p>I am currently studying in VIT Vellore 2nd year , with a CGPA of 9.34</p>
+                    <p>I have dedicated 2 years to learn Development and have successfully created 4 projects</p>
+                    <p> I have completed courses like DSA, DAA, Digital Sysyems Design etc</p>
+                    <p>I have learned languages like Python , C, C++, Java , HTML, CSS, Javascript, React.</p>
                 </div>
                 <div className="about-skills">
-                    <div className="about-skill"><p>Development</p>< hr style={{width:"40%"}}/></div>
-                    <div className="about-skill"><p>Anchoring</p>< hr style={{width:"90%"}}/></div>
-                    <div className="about-skill"><p>Machine Learning</p>< hr style={{width:"50%"}}/></div>
+                    <div className="about-skill"><p>Development</p>< hr style={{width:"50 %"}}/></div>
+                    <div className="about-skill"><p>Anchoring</p>< hr style={{width:"60%"}}/></div>
+                    <div className="about-skill"><p>Machine Learning</p>< hr style={{width:"40%"}}/></div>
                     <div className="about-skill"><p>React</p>< hr style={{width:"60%"}}/></div>
 
                 </div>

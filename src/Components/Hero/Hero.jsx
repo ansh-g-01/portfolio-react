@@ -2,6 +2,7 @@ import React from 'react'
 import './Hero.css'
 import profile_img from '../../assets/ansh.jpg'
 import AnchorLink from 'react-anchor-link-smooth-scroll';
+import resume from '../../assets/resume.pdf'
 
 const Hero = () => {
   return (
@@ -11,7 +12,7 @@ const Hero = () => {
       <p>I am studying in 2nd year VIT Vellore. I have hosted Riviera Proshows,South Asia's One of the largest cultural fest</p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link'  offset={50} href='#contact'>Connect with me</AnchorLink></div>
-        <div className="hero-resume">My resume</div>
+        <div className="hero-resume"><a href={resume} target='blank'>My resume</a></div>
       </div>
     </div>
   )

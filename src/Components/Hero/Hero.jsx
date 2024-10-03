@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 import './Hero.css'
 import profile_img from '../../assets/ansh.jpg'
 import AnchorLink from 'react-anchor-link-smooth-scroll';
